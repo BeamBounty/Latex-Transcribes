@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.22)  24 AUG 2022 14:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.25)  29 AUG 2022 14:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/geo71/Desktop/Latex Transcribes/Math 214/Section 1.1.tex"
-(c:/Users/geo71/Desktop/Latex Transcribes/Math 214/Section 1.1.tex
+**"c:/Users/geo71/Desktop/Latex Transcribes/Math 214/Section 1.1/Section 1.1.tex"
+(c:/Users/geo71/Desktop/Latex Transcribes/Math 214/Section 1.1/Section 1.1.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-07-04> (C:\Users\geo71\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -111,17 +111,17 @@ LaTeX Font Info:    ... okay on input line 5.
 
 {C:/Users/geo71/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] [4] (Section 1.1.aux) ) 
 Here is how much of TeX's memory you used:
- 1177 strings out of 478338
- 18617 string characters out of 2836700
- 326403 words of memory out of 3000000
- 19659 multiletter control sequences out of 15000+600000
- 474027 words of font info for 45 fonts, out of 8000000 for 9000
+ 1178 strings out of 478338
+ 18719 string characters out of 2836700
+ 327403 words of memory out of 3000000
+ 19660 multiletter control sequences out of 15000+600000
+ 474334 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 54i,8n,62p,292b,192s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on "Section 1.1.pdf" (4 pages, 79605 bytes).
+ 54i,8n,62p,304b,192s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "Section 1.1.pdf" (4 pages, 93163 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
+ 55 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
